@@ -105,6 +105,7 @@ main{
 /* about section */
 .about{
     padding: 130px;
+    margin-bottom: 35px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0px;
@@ -127,4 +128,22 @@ line-height: 40px;
 .info-description{
     color: #474747;
     font-weight: bold;
+}
+#what-i-do-desc{
+    padding: 30px 150px;
+}
+
+.skills-container{
+    display: flex;
+    
+}
+.skill{
+    padding: 25px;
+    gap: 24px;
+}
+.skill-description{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
 }
