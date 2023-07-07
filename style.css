@@ -147,3 +147,27 @@ line-height: 40px;
     font-weight: 400;
     line-height: 28px;
 }
+.resume-column-title{
+color:#474747;
+font-size: 30px;
+font-weight: 700;
+line-height: normal;
+}
+.resume-container{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+.resume-part-desc{
+color:#757575;
+font-size: 20px;
+font-weight: 600;
+}
+.resume-part-ins{
+    color:#343434;
+font-size: 20px;
+font-weight: 600;
+}
+.download-cv{
+   text-align: start;
+}
