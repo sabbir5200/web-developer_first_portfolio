@@ -147,27 +147,41 @@ line-height: 40px;
     font-weight: 400;
     line-height: 28px;
 }
+
+/* resume section start */
 .resume-column-title{
-color:#474747;
-font-size: 30px;
-font-weight: 700;
-line-height: normal;
+    color:#474747;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
 }
 .resume-container{
     display: flex;
-    gap: 60px;
-    justify-content: center;
+    gap: 70px;
 }
-.resume-part-desc{
-color:#757575;
-font-size: 20px;
-font-weight: 600;
+ .resume-item-desc{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
 }
-.resume-part-ins{
-    color:#343434;
-font-size: 20px;
-font-weight: 600;
+.resume-item-ins{
+    color: #FD6E0A;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-container hr{
+    margin: 30px;
+}
+.resume-section-title{
+color: #181818;
+text-align: center;
+margin-bottom: 100px;
+margin-top: 40px;
+font-size: 35px;
+font-weight: 700;
 }
 .download-cv{
-   text-align: start;
+    text-align: center;
+    margin-top: 50px;
 }
